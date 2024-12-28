@@ -15,7 +15,7 @@ const Testimonial = (props) => {
     else setIndex(index-1);
    }
    function righthandeler(){
-    if(index+1>review.length){
+    if(index+1>review.length-1){
         setIndex(0);
     }
     else setIndex(index+1);

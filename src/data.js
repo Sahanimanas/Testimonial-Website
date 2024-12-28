@@ -1,9 +1,10 @@
+
 const reviews = [
   {
     id: 1,
-    name: "Priyansh Patel",
+    name: "Manashvi Sahani",
     job: "MERN Stack Developer",
-    image: "https://avatars.githubusercontent.com/u/93965871?s=96&v=4",
+    image: "https://i.ibb.co/1Jh9NMn/manas.jpg",
     text: "I'm a Frontend Web Developer, I mastered HTML, and CSS, and am a beginner in JavaScript, and Tailwind CSS. I can convert your design into pixel perfect frontend website. I provide well-structured, valid, adaptive, featured, clean, readable, and maintainable code.",
   },
   {

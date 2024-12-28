@@ -1,6 +1,5 @@
 import React from "react";
 import { FaQuoteRight, FaQuoteLeft } from "react-icons/fa";
-import { FaChevronRight,FaChevronLeft } from "react-icons/fa";
 
 const Card = (props) => {
     const review = props.review;
