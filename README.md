@@ -1,9 +1,6 @@
 # Testimonial Slider Website 🌟
 An elegant and interactive testimonial slider built using React.js. Perfect for displaying customer feedback or user testimonials in a sleek and modern way.
 
-### 🌐 Live Demo
-Explore the website here: Live Demo Link
-
 ### ✨ Features
 Dynamic Slider: Smooth transitions between testimonials, with autoplay and manual controls.
 
